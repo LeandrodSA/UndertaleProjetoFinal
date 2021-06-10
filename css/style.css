@@ -15,9 +15,15 @@ h2{
     color: #000;
 }
 
+h1, h4{
+    color: #fff;
+}
+
+
 p{
     margin: 5% 15%;
     color: #fff;
+    text-align: left;
 }
 
 article{
