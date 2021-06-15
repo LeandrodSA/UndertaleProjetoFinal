@@ -8,7 +8,8 @@ body{
 }
 
 nav{
-    background-color: #fff;    
+    background-color: #fff;
+    padding: 0 0;    
 }
 
 h2{
@@ -27,13 +28,13 @@ p{
 }
 
 article{
-    padding: 5% 25%;
+    padding: 5% 10%;
     text-align: center;
 }
 
 .divform{
     background-color: #fff;
-    padding: 4% 0;    
+    padding: 1% 0;    
 }
 
 form{
@@ -68,4 +69,51 @@ main div{
 .divgaster{
     width: 10%;
     padding-top: 5%;
+}
+
+table {
+    margin: 5% 15%;
+}
+
+td, th{
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+}
+
+.seta-esquerda::before{
+    content: "";
+    display: inline-block;    
+    margin-right: 20px;  
+    vertical-align: middle;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid #000;
+}
+
+.div-nav{
+    padding: 1%;
+}
+
+.seta-esquerda{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+}
+
+.seta-esquerda:hover{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+}
+
+
+.seta-esquerda:hover::before{
+    content: "";
+    display: inline-block;    
+    margin-right: 20px;  
+    vertical-align: middle;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid #000;
 }
