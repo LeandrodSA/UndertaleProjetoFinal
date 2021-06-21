@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Undertale</title>
+</head>
+
+<body>
+    <section>
+        <header>
+            <img class="container-fluid" src="../img/undertale.png" alt="undertale">
+        </header>
+
+        <nav class="container-fluid" style="background: #fff">
+            <div class="container d-flex justify-content-center fw-bold">
+                <div class="row">
+                    <div class="col">
+                        <a class="nav-link justify-content-center text-dark fs-4" href="historias.html">
+                            <span class="fa fa-arrow-circle-left"></span>
+                            Historia</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <main>
+            <div class="container-fluid">
+                <div id="imag"></div>
+            </div>
+        </main>
+
+        <footer class="text-center p-2" style="background: #fff">
+            <a href="https://store.steampowered.com/app/391540/Undertale/?l=portuguese"><img class="rounded"
+                    src="../img/iconSteam.jpg" alt="steam"></a>
+        </footer>
+    </section>
+</body>
+
+</html>
+
+<script>
+    let imgs = ['toriel', 'sans', 'papyrus', 'undyne', 'alphys', 'mettaton', 'muffet', 'asgore', 'flowey', 'asriel', 'frisk', 'chara',]
+
+    imgs.forEach(imgFunction)
+    function imgFunction(item) {
+        document.getElementById("imag").innerHTML += '<a id="' + item + '" onClick="clickid(this.id)" class="nav-link submit p-4 text-center fw-bold fs-3 text-white" href="historiapersonagem.html"><img class="img-fluid rounded mx-auto d-block w-25 " src="../img/personagens/personagemhistoria/' + item + '.gif" alt="logo" ></a>'
+    }
+
+
+    function clickid(id){
+        sessionStorage.setItem('key', id)
+    }
+
+    
+
+
+</script>

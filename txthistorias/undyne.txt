@@ -1,0 +1,20 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/undyne.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Undyne</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Undyne é um monstro parecido com um peixe que é líder da Guarda Real. Vestida em sua armadura, ela persegue o humano através da Cachoeira, frequentemente interrompida ou inadvertidamente frustrada por Monstrinho.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/undyne/undyne.jpg" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/undyne/undyne2.gif" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/undyne/undyne3.gif" alt="logo">
+                </div>

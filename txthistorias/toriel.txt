@@ -1,0 +1,21 @@
+
+<img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/toriel.gif"
+    alt="logo">
+<div class="p-4 text-center fw-bold fs-2 text-white">Toriel</div>
+<div class="py-5 px-3 text-white fs-3">
+    <p>
+        é um tipo um monstro maternal a quem se importa realmente para o protagonista e seu bem-estar.
+        Embora em última análise, uma figura maternal, ela tem um lado mais difícil de sua
+        personalidade, como visto em sua tentativa de manter o protagonista nas ruínas, e seu tratamento
+        frio pelo de Asgore. </p>
+</div>
+
+<div>
+    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/toriel/torielGame.png" alt="logo">
+
+    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/toriel/torielSofa.png" alt="logo">
+</div>
+
+<div>
+    <img class="mx-auto w-75 d-block py-3" src="../img/personagens/toriel/torielAbraco.jpg" alt="logo">
+</div>

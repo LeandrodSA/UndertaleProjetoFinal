@@ -1,0 +1,21 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/frisk.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Frisk</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Frisk é o personagem jogável em Undertale, Cujo o objetivo é escapar do submundo e voltar para a superfície.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/frisk/frisk.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/frisk/frisk2.png" alt="logo">
+                </div>
+            
+                
+                <div>
+                    <img class="mx-auto w-50 d-block py-3" src="../img/personagens/frisk/frisk3.png" alt="logo">
+                </div>

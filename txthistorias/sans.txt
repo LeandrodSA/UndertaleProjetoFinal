@@ -1,0 +1,21 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/sans.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Sans</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Sans é o irmão mais velho de Papyrus, e um importante personagem de Undertale. Ele aparece pela primeira vez na floresta antes de Snowdin. Ele é um personagem coadjuvante da Rota Neutra e Rota Pacifista. Bem como o chefe final e antagonista heroico na Rota Genocida.
+            
+                        Procurando um pouco, é possivel saber que Sans tem uma história relacionada com uma equipe de cientistas e provavelmente W.D. Gaster. Sans pode alterar a realidade de diversas formas. Como se teletrasportando ou quebrando a 4° parede, ou seja, conversar com o jogador (isso acontece muitas vezes durante o jogo). </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/sans/sans.jpg" alt="logo">
+                </div>
+            
+                <di>
+                    <img class="mx-auto w-50 d-block py-3" src="../img/personagens/sans/sans2.jpg" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/sans/sans3.jpg" alt="logo">
+                </div>

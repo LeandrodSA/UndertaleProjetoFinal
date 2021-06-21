@@ -1,0 +1,20 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/alphys.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Alphys</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Dra. Alphys é um monstro lagarto fêmea que vive no laboratório em Teraquente. Ela é a atual Cientista Real, uma posição que foi concedida pelo Asgore após a aparente morte de seu antecessor, W.D. Gaster. Asgore contratou Alphys porque ela lhe disse que ela tinha criado uma alma, mas na realidade, ela criou um corpo robótico para um fantasma, Mettaton.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/alphys/alphys.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/alphys/alphys2.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block w-25 py-3" src="../img/personagens/alphys/alphys3.png" alt="logo">
+                </div>

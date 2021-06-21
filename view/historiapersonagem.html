@@ -7,53 +7,56 @@
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Undertale</title>
 </head>
 
 <body>
     <section>
         <header>
-            <img class="divTitle" src="../img/undertale.png" alt="undertale">
+            <img class="container-fluid" src="../img/undertale.png" alt="undertale">
         </header>
 
-        <nav class="nav justify-content-center">
-            <div class="nav-item">
-                <a class="nav-link" href="historia.html">
-                    <h2>Historia</h2>
-                </a>
+        <nav class="container-fluid" style="background: #fff">
+            <div class="container d-flex justify-content-center fw-bold">
+                <div class="row">
+                    <div class="col">
+                        <a class="nav-link justify-content-center text-dark fs-4" href="personagen.html">
+                            <span class="fa fa-arrow-circle-left"></span>
+                            Historia</a>
+                    </div>
+                </div>
             </div>
         </nav>
 
         <main>
-            <div>
-                <img class="divgaster" src="../img/personagens/toriel/toriel.png" alt="logo">
-                <h1>Toriel</h1>
-                <h4>
-                    <p>
-                        é um tipo um monstro maternal a quem se importa realmente para o protagonista e seu bem-estar.
-                        Embora em última análise, uma figura maternal, ela tem um lado mais difícil de sua
-                        personalidade, como visto em sua tentativa de manter o protagonista nas ruínas, e seu tratamento
-                        frio pelo de Asgore. </p>
-                </h4>
 
-                <div>
-                    <img class="divgaster" src="../img/personagens/toriel/torielGame.png" alt="logo">
-
-                    <img class="divgaster" src="../img/personagens/toriel/torielSofa.png" alt="logo">
-                </div>
-
-                <div>
-                    <img class="divimgHistoria" src="../img/personagens/toriel/torielAbraco.jpg" alt="logo">
-                </div>
-                
-            </div>
         </main>
 
-        <footer>
-            <a href="https://store.steampowered.com/app/391540/Undertale/?l=portuguese"><img src="../img/iconSteam.jpg"
-                    alt="steam"></a>
+        <footer class="text-center p-2" style="background: #fff">
+            <a href="https://store.steampowered.com/app/391540/Undertale/?l=portuguese"><img class="rounded"
+                    src="../img/iconSteam.jpg" alt="steam"></a>
         </footer>
     </section>
 </body>
 
 </html>
+
+
+<script>
+    var dat = sessionStorage.getItem('key')
+    console.log(dat)
+    var txt = '../txthistorias/' + dat + '.txt'
+    console.log(txt)
+
+    var txtFile = new XMLHttpRequest();
+    txtFile.open("GET", txt, true);
+    txtFile.onreadystatechange = function () {
+        if (txtFile.readyState === 4) {
+            if (txtFile.status === 200) {
+                document.getElementById("historiaTxt").innerHTML = txtFile.onreadystatechange;
+            }
+        }
+    }
+    txtFile.send(null)
+</script>

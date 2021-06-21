@@ -1,0 +1,22 @@
+
+                <img class="mx-auto d-block py-3" src="../img/personagens/personagemhistoria/asriel.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Asriel</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Antes dos acontecimentos de Undertale, Asriel encontrou um ser humano que caiu no Subterrâneo,
+                        Chara, que após cair gritou por ajuda. Ele se tornou seu irmão adotivo e melhor amigo.
+                    </p>
+                </div>
+
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/asriel/asriel.jpg" alt="logo">
+                </div>
+
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/asriel/asriel2.jpg" alt="logo">
+                </div>
+
+
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/asriel/asriel3.jpg" alt="logo">
+                </div>

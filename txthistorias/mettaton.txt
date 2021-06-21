@@ -1,0 +1,20 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/mettaton.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Mettaton</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Mettaton é um robô (que contém uma ALMA) que foi projetado e construído por Alphys. Este robô foi criado com o propósito de entretenimento, porém acabou se tornando um robô assassino de humanos. Posteriormente Mettaton revela que ele apenas agiu como Alphys lhe pediu. Ele é a única estrela de televisão no Subsolo e por isso é muito famoso.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/mettaton/mettaton.jpg" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block w-50 py-3" src="../img/personagens/mettaton/mettaton2.jpg" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block  py-3" src="../img/personagens/mettaton/mettaton3.gif" alt="logo">
+                </div>

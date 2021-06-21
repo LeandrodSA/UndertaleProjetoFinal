@@ -1,0 +1,16 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/muffet.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Muffet</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Muffet é a principal mini-chefe que o protagonista encontra em Teraquente. Ela tem uma confeitaria, e fica irritada com os monstros que não compram qualquer coisa a partir dela.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/muffet/muffet.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/muffet/muffet2.png" alt="logo">
+                </div>

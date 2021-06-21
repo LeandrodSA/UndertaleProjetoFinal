@@ -1,0 +1,16 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/flowey.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Flawey</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Flowey é o primeiro personagem apresentado e o antagonista da rota Neutra e Pacifista que existem em Undertale. Ele introduz as mecânicas de encontros compartilhando com você "pétalas da amizade", que na verdade são projéteis que causam dano.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/asriel/flowey.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/asriel/flowey2.jpg" alt="logo">
+                </div>

@@ -1,0 +1,31 @@
+
+                <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/papyrus.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Papyrus</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Papyrus aparece primeiramente na floresta de Nevada, onde proclama para Sans que vai capturar um
+                        humano e se tornará popular. Papyrus, Mais adiante na floresta, Papyrus encontra o protagonista
+                        pela primeira vez, embora inicialmente os confunde para uma rocha.
+            
+                        Papyrus tenta antagonizar o protagonista com puzzles, mas ele eventualmente são fáceis de se
+                        passar. Ele quase se recusa a lutar contra o protagonista por compaixão. Embora Papyrus inicie
+                        uma batalha, ele nunca mata o protagonista e em vez disso o coloca em seu galpão se o seu HP
+                        reduz a um. O protagonista pode facilmente escapar de seu barracão.
+            
+                        Caso o jogador perca a batalha três vezes e voltando mais uma vez, Papyrus fornece a opção de
+                        lutar ou não. Decidindo que o protagonista é amigável, Papyrus deixa continuar em cachoeira,
+                        aconselha sobre como sair do Subsolo, e oferece um local ou um encontro de volta em sua casa.
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block w-25 py-3" src="../img/personagens/papyrus/papyrus.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/papyrus/papyrus2.gif" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/papyrus/papyrus3.png" alt="logo">
+                </div>

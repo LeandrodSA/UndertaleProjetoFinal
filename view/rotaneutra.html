@@ -7,26 +7,32 @@
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Undertale</title>
 </head>
 
 <body>
     <section>
         <header>
-            <img class="divTitle" src="../img/undertale.png" alt="undertale">
+            <img class="container-fluid" src="../img/undertale.png" alt="undertale">
         </header>
 
-        <nav class="nav justify-content-center">
-            <div class="nav-item">
-                <a class="nav-link" href="rotas.html">
-                    <h2>Rotas</h2>
-                </a>
+        <nav class="container-fluid" style="background: #fff">
+            <div class="container d-flex justify-content-center fw-bold">
+                <div class="row">
+                    <div class="col">
+                        <a class="nav-link justify-content-center text-dark fs-4" href="rotas.html">
+                            <span class="fa fa-arrow-circle-left"></span>
+                            Rotas</a>
+                    </div>
+                </div>
             </div>
         </nav>
 
         <main>
-            <div>
-                <h4>
+            <div class="container p-5">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Rota Neutra</div>
+                <div class="py-5 px-3 text-white fs-3">
                     <p>
                         A Rota Neutra ou Rota Normal não é muito diferente da Rota Pacifista, tanto que quando o
                         protagonista faz a Pacifista e mata qualquer monstro a rota automaticamente vira a Neutra.
@@ -58,7 +64,7 @@
                         Rei):
                     </p>
 
-                    <table>
+                    <table class="fs-5">
                         <tr>
                             <th>Rei do Final</th>
                             <th>Mortes Necessárias</th>
@@ -85,7 +91,7 @@
                             <th>Toriel, Papyrus, Undyne, Mettaton e Asgore</th>
                         </tr>
                     </table>
-
+                    <br>
                     <p>
                         Nos Finais Neutros, cada personagem morto ou vivo altera o final, assim gerando várias
                         possibilidades.
@@ -124,14 +130,14 @@
                         do
                         Personagem) você é GENIAL, te vejo daqui a pouco. "
                     </p>
-                </h4>
-                <img class="divgaster" src="../img/personagens/Flowey.png" alt="logo">
+                </div>
+                <img class="mx-auto w-25 d-block" src="../img/personagens/Flowey.png" alt="logo">
             </div>
         </main>
 
-        <footer>
-            <a href="https://store.steampowered.com/app/391540/Undertale/?l=portuguese"><img src="../img/iconSteam.jpg"
-                    alt="steam"></a>
+        <footer class="text-center p-2" style="background: #fff">
+            <a href="https://store.steampowered.com/app/391540/Undertale/?l=portuguese"><img class="rounded"
+                    src="../img/iconSteam.jpg" alt="steam"></a>
         </footer>
     </section>
 </body>

@@ -3,117 +3,20 @@ body{
     background-color: #000;
 }
 
-.divTitle{
-    width: 100%;
+.desk{
+    display: block;
 }
 
-nav{
-    background-color: #fff;
-    padding: 0 0;    
+.mobile{
+    display: none;
 }
 
-h2{
-    color: #000;
-}
+@media screen and (max-width: 460px){
+    .desk{
+        display: none;
+    }
 
-h1, h4{
-    color: #fff;
-}
-
-
-p{
-    margin: 5% 15%;
-    color: #fff;
-    text-align: left;
-}
-
-article{
-    padding: 5% 10%;
-    text-align: center;
-}
-
-.divform{
-    background-color: #fff;
-    padding: 1% 0;    
-}
-
-form{
-    margin: 0% 4%;
-    display: grid;
-    text-align: left;
-}
-
-input{
-    background-color: #000;
-    color: #fff;
-    justify-content: center;
-}
-
-footer{
-    background-color: #fff;
-    clear: both;
-    padding: 2% 0;
-    text-align: center;
-}
-
-main div{
-    text-align: center;
-    padding: 5% 0;
-}
-
-.divimgHistoria{
-    width: 50%;
-    padding-top: 5%;
-}
-
-.divgaster{
-    width: 10%;
-    padding-top: 5%;
-}
-
-table {
-    margin: 5% 15%;
-}
-
-td, th{
-    border: 1px solid;
-    text-align: left;
-    padding: 8px;
-}
-
-.seta-esquerda::before{
-    content: "";
-    display: inline-block;    
-    margin-right: 20px;  
-    vertical-align: middle;
-    border-top: 15px solid transparent;
-    border-bottom: 15px solid transparent;
-    border-right: 15px solid #000;
-}
-
-.div-nav{
-    padding: 1%;
-}
-
-.seta-esquerda{
-    font-size: 24px;
-    color: #000;
-    font-weight: bold;
-}
-
-.seta-esquerda:hover{
-    font-size: 24px;
-    color: #000;
-    font-weight: bold;
-}
-
-
-.seta-esquerda:hover::before{
-    content: "";
-    display: inline-block;    
-    margin-right: 20px;  
-    vertical-align: middle;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-right: 10px solid #000;
+    .mobile{
+        display: block;
+    }
 }

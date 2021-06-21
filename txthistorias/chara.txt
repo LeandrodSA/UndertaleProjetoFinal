@@ -1,0 +1,21 @@
+
+    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/personagemhistoria/chara.gif" alt="logo">
+    <div class="p-4 text-center fw-bold fs-2 text-white">Chara</div>
+    <div class="py-5 px-3 text-white fs-3">
+        <p>
+            Chara (/kæ.ɹʌ/, /tʃɑː.ɹʌ/ ou primeiro humano caído), é a primeira criança humana que caiu no subterrâneo. Chara é o humano que o jogador nomeia no começo do jogo, não o personagem principal controlado em Undertale.
+        </p>
+    </div>
+
+    <div>
+        <img class="mx-auto w-25 d-block py-3" src="../img/personagens/chara/chara.gif" alt="logo">
+    </div>
+
+    <div>
+        <img class="mx-auto w-25 d-block py-3" src="../img/personagens/chara/chara2.png" alt="logo">
+    </div>
+
+    
+    <div>
+        <img class="mx-auto w-50 d-block py-3" src="../img/personagens/chara/chara3.jpg" alt="logo">
+    </div>

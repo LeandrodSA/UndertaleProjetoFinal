@@ -1,0 +1,20 @@
+
+                <img class="mx-auto d-block py-3" src="../img/personagens/personagemhistoria/asgore.gif" alt="logo">
+                <div class="p-4 text-center fw-bold fs-2 text-white">Asgore</div>
+                <div class="py-5 px-3 text-white fs-3">
+                    <p>
+                        Asgore Dreemurr é o governante do Subsolo e de seus habitantes, monstros. Ele é o ex-marido de Toriel, pai de Asriel Dreemurr, o pai adotivo de Primeira Criança Caída e o segundo chefe final da Rota Neutra,  Embora não seja necessariamente mau ou malicioso, ele serve como um dos principais antagonistas, tramando para matar sete humanos e usar as suas almas para quebrar a barreira que mantém os monstros no Subsolo. 
+                    </p>
+                </div>
+            
+                <div>
+                    <img class="mx-auto w-25 d-block py-3" src="../img/personagens/asgore/asgore.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block py-3" src="../img/personagens/asgore/asgore2.png" alt="logo">
+                </div>
+            
+                <div>
+                    <img class="mx-auto d-block w-25 py-3" src="../img/personagens/asgore/asgore3.png" alt="logo">
+                </div>
